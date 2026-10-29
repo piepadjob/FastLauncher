@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="home_bg">#CC000000</color>
+    <color name="dock_bg">#99000000</color>
+    <color name="drawer_bg">#EE111111</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_hint">#88FFFFFF</color>
+    <color name="icon_tint">#FFFFFF</color>
+    <color name="accent">#2196F3</color>
+</resources>
